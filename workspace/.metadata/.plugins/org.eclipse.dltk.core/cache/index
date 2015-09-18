@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="292" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_products.js" timestamp="1441970660999" lastAccessTime="1442403300498"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_message.js" timestamp="1441975640534" lastAccessTime="1442403301287">
+    <attributes name="indexed" location="2838196607/3543492272/27.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_select.js" timestamp="1441975640525" lastAccessTime="1442403301284">
+    <attributes name="indexed" location="2838196607/3543492272/25.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_fimd.js" timestamp="1441975640511" lastAccessTime="1442403301282">
+    <attributes name="indexed" location="2838196607/3543492272/23.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/globals.js" timestamp="1441975640506" lastAccessTime="1442403301292">
+    <attributes name="indexed" location="2838196607/2839674458/29.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_input.js" timestamp="1441975640527" lastAccessTime="1442403301275">
+    <attributes name="indexed" location="2838196607/3543492272/19.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_base.js" timestamp="1441975640536" lastAccessTime="1442403301280">
+    <attributes name="indexed" location="2838196607/3543492272/21.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/solution_preferences_calculations.js" timestamp="1441786822693" lastAccessTime="1442403300522"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm" timestamp="1442398390298" lastAccessTime="1442403300985">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1831718637/11.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_base_cust_prod_ord_con_adm.js" timestamp="1442241232495" lastAccessTime="1442403300532"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_nav_top.js" timestamp="1441981090389" lastAccessTime="1442403300552"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/solution_navigation_calculations.js" timestamp="1442243154388" lastAccessTime="1442403300572"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/contacts_calculations.js" timestamp="1442241825658" lastAccessTime="1442403300577"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_contacts.js" timestamp="1442216833512" lastAccessTime="1442403300585"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/orders_calculations.js" timestamp="1442242076319" lastAccessTime="1442403300609"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/dlg_orderItem.js" timestamp="1442238851218" lastAccessTime="1442403300623"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/globals.js" timestamp="1442304429615" lastAccessTime="1442403300634"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/companies_calculations.js" timestamp="1442241723653" lastAccessTime="1442403300655"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/order_items_calculations.js" timestamp="1441620812435" lastAccessTime="1442403300666"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_solution_navigation.js" timestamp="1441977307462" lastAccessTime="1442403300677"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/dlg_addresses.js" timestamp="1442227188515" lastAccessTime="1442403300686"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/main.js" timestamp="1441369293771" lastAccessTime="1442403300697"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/addresses_calculations.js" timestamp="1441363833370" lastAccessTime="1442403300707"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_orders.js" timestamp="1442163409078" lastAccessTime="1442403300720"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/rpt_company_detail.js" timestamp="1442215991339" lastAccessTime="1442403300728"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/rpt_order_form.js" timestamp="1442166330167" lastAccessTime="1442403300741"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_contacts_company_addresses.js" timestamp="1442304089130" lastAccessTime="1442403300753"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_orders.js" timestamp="1442302504564" lastAccessTime="1442403300765"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_companies.js" timestamp="1442232271967" lastAccessTime="1442403300798"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_products.js" timestamp="1442216998240" lastAccessTime="1442403300817"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_company_addresses.js" timestamp="1442226857983" lastAccessTime="1442403300832"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_order_items.js" timestamp="1442303014769" lastAccessTime="1442403300847"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/constants.js" timestamp="1441803900856" lastAccessTime="1442403300857"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/rpt_company_list.js" timestamp="1442216630121" lastAccessTime="1442403300869"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_company_contacts.js" timestamp="1442324219604" lastAccessTime="1442403300880"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_company_orders.js" timestamp="1441981304121" lastAccessTime="1442403300893"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/rpt_products_list.js" timestamp="1442166339178" lastAccessTime="1442403300905"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/rpt_contacts_list.js" timestamp="1442166325651" lastAccessTime="1442403300965"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_companies.js" timestamp="1441973052257" lastAccessTime="1442403300975"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/datasources/udm/products_calculations.js" timestamp="1442242363872" lastAccessTime="1442403300983"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/frm_nav_CRUD.js" timestamp="1442305050001" lastAccessTime="1442403301000"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_products_existingOrders.js" timestamp="1441981294806" lastAccessTime="1442403301022"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/rpt_order_month.js" timestamp="1442166335032" lastAccessTime="1442403301032"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_contacts.js" timestamp="1441977590083" lastAccessTime="1442403301041"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms/lst_nav_main.js" timestamp="1442304877443" lastAccessTime="1442403301053"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/svyCore/forms/core_dlg_generic.js" timestamp="1441183336951" lastAccessTime="1442403301150"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/svyCore/globals.js" timestamp="1441183337088" lastAccessTime="1442403301170"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_base.frm" timestamp="1441975640519" lastAccessTime="1442400134835"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_fimd.frm" timestamp="1441975640513" lastAccessTime="1442400134835"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_input.frm" timestamp="1441975640505" lastAccessTime="1442400134836"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_message.frm" timestamp="1441975640518" lastAccessTime="1442400134836"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_select.frm" timestamp="1441975640529" lastAccessTime="1442400134837"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms/dialogs_stylesheet.frm" timestamp="1441975640515" lastAccessTime="1442400134837"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/.buildpath" timestamp="1441975642151" lastAccessTime="1442400134866"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/.project" timestamp="1441975640548" lastAccessTime="1442400134867"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/medias" timestamp="1442400075832" lastAccessTime="1442400134868"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/medias.obj" timestamp="1441975640539" lastAccessTime="1442400134868"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/rootmetadata.obj" timestamp="1441975640538" lastAccessTime="1442400134868"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/solution_settings.obj" timestamp="1441975640532" lastAccessTime="1442400134869"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/valuelists" timestamp="1442400075832" lastAccessTime="1442400134869"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/mod_dialog/forms" timestamp="1442400075801" lastAccessTime="1442403300343">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2839674458/49.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/servoy_sample_ng_basic/forms" timestamp="1442398390627" lastAccessTime="1442403301055">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1851951499/53.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/svyCore/forms" timestamp="1442400075879" lastAccessTime="1442403301154">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1204134024/57.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_message.js" timestamp="1441975640534" lastAccessTime="1442414025348">
+    <attributes name="indexed" location="2838196607/1601701322/83.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_select.js" timestamp="1441975640525" lastAccessTime="1442414025345">
+    <attributes name="indexed" location="2838196607/1601701322/81.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_fimd.js" timestamp="1441975640511" lastAccessTime="1442414025342">
+    <attributes name="indexed" location="2838196607/1601701322/79.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/globals.js" timestamp="1441975640506" lastAccessTime="1442414025351">
+    <attributes name="indexed" location="2838196607/2737066401/85.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_input.js" timestamp="1441975640527" lastAccessTime="1442414025335">
+    <attributes name="indexed" location="2838196607/1601701322/75.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_base.js" timestamp="1441975640536" lastAccessTime="1442414025339">
+    <attributes name="indexed" location="2838196607/1601701322/77.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_products.js" timestamp="1441970660999" lastAccessTime="1442414024650"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/solution_preferences_calculations.js" timestamp="1441786822693" lastAccessTime="1442414024659"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm" timestamp="1442398390298" lastAccessTime="1442414025036">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3136912988/67.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_base_cust_prod_ord_con_adm.js" timestamp="1442241232495" lastAccessTime="1442414024667"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_nav_top.js" timestamp="1441981090389" lastAccessTime="1442414024677"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/solution_navigation_calculations.js" timestamp="1442243154388" lastAccessTime="1442414024713"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/contacts_calculations.js" timestamp="1442241825658" lastAccessTime="1442414024720"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_contacts.js" timestamp="1442216833512" lastAccessTime="1442414024733"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/orders_calculations.js" timestamp="1442242076319" lastAccessTime="1442414024759"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/dlg_orderItem.js" timestamp="1442238851218" lastAccessTime="1442414024775"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/globals.js" timestamp="1442304429615" lastAccessTime="1442414024786"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/companies_calculations.js" timestamp="1442241723653" lastAccessTime="1442414024810"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/order_items_calculations.js" timestamp="1441620812435" lastAccessTime="1442414024817"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_solution_navigation.js" timestamp="1441977307462" lastAccessTime="1442414024823"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/dlg_addresses.js" timestamp="1442227188515" lastAccessTime="1442414024832"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/main.js" timestamp="1441369293771" lastAccessTime="1442414024846"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/addresses_calculations.js" timestamp="1441363833370" lastAccessTime="1442414024856"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_orders.js" timestamp="1442163409078" lastAccessTime="1442414024865"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/rpt_company_detail.js" timestamp="1442215991339" lastAccessTime="1442414024874"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/rpt_order_form.js" timestamp="1442166330167" lastAccessTime="1442414024892"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_contacts_company_addresses.js" timestamp="1442304089130" lastAccessTime="1442414024898"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_orders.js" timestamp="1442302504564" lastAccessTime="1442414024902"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_companies.js" timestamp="1442232271967" lastAccessTime="1442414024928"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_products.js" timestamp="1442216998240" lastAccessTime="1442414024956"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_company_addresses.js" timestamp="1442226857983" lastAccessTime="1442414024973"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_order_items.js" timestamp="1442303014769" lastAccessTime="1442414024982"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/constants.js" timestamp="1441803900856" lastAccessTime="1442414024992"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/rpt_company_list.js" timestamp="1442216630121" lastAccessTime="1442414024998"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_company_contacts.js" timestamp="1442324219604" lastAccessTime="1442414025009"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_company_orders.js" timestamp="1441981304121" lastAccessTime="1442414025014"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/rpt_products_list.js" timestamp="1442166339178" lastAccessTime="1442414025017"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/rpt_contacts_list.js" timestamp="1442166325651" lastAccessTime="1442414025019"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_companies.js" timestamp="1441973052257" lastAccessTime="1442414025023"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/datasources/udm/products_calculations.js" timestamp="1442242363872" lastAccessTime="1442414025035"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/frm_nav_CRUD.js" timestamp="1442305050001" lastAccessTime="1442414025053"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_products_existingOrders.js" timestamp="1441981294806" lastAccessTime="1442414025065"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/rpt_order_month.js" timestamp="1442166335032" lastAccessTime="1442414025074"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_contacts.js" timestamp="1441977590083" lastAccessTime="1442414025081"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms/lst_nav_main.js" timestamp="1442304877443" lastAccessTime="1442414025091"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/svyCore/forms/core_dlg_generic.js" timestamp="1441183336951" lastAccessTime="1442414025184"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/svyCore/globals.js" timestamp="1441183337088" lastAccessTime="1442414025236"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_base.frm" timestamp="1441975640519" lastAccessTime="1442404971353"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_fimd.frm" timestamp="1441975640513" lastAccessTime="1442404971353"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_input.frm" timestamp="1441975640505" lastAccessTime="1442404971353"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_message.frm" timestamp="1441975640518" lastAccessTime="1442404971354"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_select.frm" timestamp="1441975640529" lastAccessTime="1442404971354"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms/dialogs_stylesheet.frm" timestamp="1441975640515" lastAccessTime="1442404971356"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/.buildpath" timestamp="1441975642151" lastAccessTime="1442404971379"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/.project" timestamp="1441975640548" lastAccessTime="1442404971379"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/medias" timestamp="1442400075832" lastAccessTime="1442404971380"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/medias.obj" timestamp="1441975640539" lastAccessTime="1442404971380"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/rootmetadata.obj" timestamp="1441975640538" lastAccessTime="1442404971380"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/solution_settings.obj" timestamp="1441975640532" lastAccessTime="1442404971380"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/valuelists" timestamp="1442400075832" lastAccessTime="1442404971381"/>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/mod_dialog/forms" timestamp="1442400075801" lastAccessTime="1442414024269">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2737066401/105.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/servoy_sample_ng_basic/forms" timestamp="1442398390627" lastAccessTime="1442414025092">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2602092725/107.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/Documents/TestANTScript/workspace/svyCore/forms" timestamp="1442400075879" lastAccessTime="1442414025186">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1231346867/109.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_message.js" timestamp="1441975640534" lastAccessTime="1442416786094">
+    <attributes name="indexed" location="2838196607/2352342119/181.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms" timestamp="1442414144302" lastAccessTime="1442416786097">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3148373705/159.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_select.js" timestamp="1441975640525" lastAccessTime="1442416786085">
+    <attributes name="indexed" location="2838196607/2352342119/179.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_fimd.js" timestamp="1441975640511" lastAccessTime="1442416786083">
+    <attributes name="indexed" location="2838196607/2352342119/177.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/globals.js" timestamp="1441975640506" lastAccessTime="1442416786099">
+    <attributes name="indexed" location="2838196607/3148373705/183.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_input.js" timestamp="1441975640527" lastAccessTime="1442416786065">
+    <attributes name="indexed" location="2838196607/2352342119/173.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_base.js" timestamp="1441975640536" lastAccessTime="1442416786078">
+    <attributes name="indexed" location="2838196607/2352342119/175.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_products.js" timestamp="1441970660999" lastAccessTime="1442416786480">
+    <attributes name="indexed" location="2838196607/3447769962/215.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms" timestamp="1442414144448" lastAccessTime="1442416786571">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/3449761635/163.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/solution_preferences_calculations.js" timestamp="1441786822693" lastAccessTime="1442416786452">
+    <attributes name="indexed" location="2838196607/2543834903/205.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm" timestamp="1442414144380" lastAccessTime="1442416786547">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/48722672/165.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_base_cust_prod_ord_con_adm.js" timestamp="1442241232495" lastAccessTime="1442416786506">
+    <attributes name="indexed" location="2838196607/3447769962/227.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_nav_top.js" timestamp="1441981090389" lastAccessTime="1442416786413">
+    <attributes name="indexed" location="2838196607/3447769962/189.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/solution_navigation_calculations.js" timestamp="1442243154388" lastAccessTime="1442416786546">
+    <attributes name="indexed" location="2838196607/2543834903/253.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/contacts_calculations.js" timestamp="1442241825658" lastAccessTime="1442416786450">
+    <attributes name="indexed" location="2838196607/2543834903/203.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_contacts.js" timestamp="1442216833512" lastAccessTime="1442416786474">
+    <attributes name="indexed" location="2838196607/3447769962/213.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/orders_calculations.js" timestamp="1442242076319" lastAccessTime="1442416786385">
+    <attributes name="indexed" location="2838196607/2543834903/185.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/dlg_orderItem.js" timestamp="1442238851218" lastAccessTime="1442416786500">
+    <attributes name="indexed" location="2838196607/3447769962/223.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/globals.js" timestamp="1442304429615" lastAccessTime="1442416786434">
+    <attributes name="indexed" location="2838196607/3449761635/195.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/companies_calculations.js" timestamp="1442241723653" lastAccessTime="1442416786527">
+    <attributes name="indexed" location="2838196607/2543834903/243.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/order_items_calculations.js" timestamp="1441620812435" lastAccessTime="1442416786499">
+    <attributes name="indexed" location="2838196607/2543834903/221.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_solution_navigation.js" timestamp="1441977307462" lastAccessTime="1442416786465">
+    <attributes name="indexed" location="2838196607/3447769962/211.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/dlg_addresses.js" timestamp="1442227188515" lastAccessTime="1442416786503">
+    <attributes name="indexed" location="2838196607/3447769962/225.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/main.js" timestamp="1441369293771" lastAccessTime="1442416786539">
+    <attributes name="indexed" location="2838196607/3447769962/249.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/addresses_calculations.js" timestamp="1441363833370" lastAccessTime="1442416786494">
+    <attributes name="indexed" location="2838196607/2543834903/219.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_orders.js" timestamp="1442163409078" lastAccessTime="1442416786517">
+    <attributes name="indexed" location="2838196607/3447769962/233.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_company_detail.js" timestamp="1442215991339" lastAccessTime="1442416786530">
+    <attributes name="indexed" location="2838196607/3447769962/245.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_order_form.js" timestamp="1442166330167" lastAccessTime="1442416786420">
+    <attributes name="indexed" location="2838196607/3447769962/193.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_contacts_company_addresses.js" timestamp="1442304089130" lastAccessTime="1442416786567">
+    <attributes name="indexed" location="2838196607/3447769962/257.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_orders.js" timestamp="1442302504564" lastAccessTime="1442416786548">
+    <attributes name="indexed" location="2838196607/3447769962/255.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_companies.js" timestamp="1442232271967" lastAccessTime="1442416786458">
+    <attributes name="indexed" location="2838196607/3447769962/209.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_products.js" timestamp="1442216998240" lastAccessTime="1442416786570">
+    <attributes name="indexed" location="2838196607/3447769962/259.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_addresses.js" timestamp="1442226857983" lastAccessTime="1442416786397">
+    <attributes name="indexed" location="2838196607/3447769962/187.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_order_items.js" timestamp="1442303014769" lastAccessTime="1442416786455">
+    <attributes name="indexed" location="2838196607/3447769962/207.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/constants.js" timestamp="1441803900856" lastAccessTime="1442416786448">
+    <attributes name="indexed" location="2838196607/3449761635/201.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_company_list.js" timestamp="1442216630121" lastAccessTime="1442416786446">
+    <attributes name="indexed" location="2838196607/3447769962/199.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_contacts.js" timestamp="1442324219604" lastAccessTime="1442416786511">
+    <attributes name="indexed" location="2838196607/3447769962/231.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_orders.js" timestamp="1441981304121" lastAccessTime="1442416786443">
+    <attributes name="indexed" location="2838196607/3447769962/197.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_products_list.js" timestamp="1442166339178" lastAccessTime="1442416786526">
+    <attributes name="indexed" location="2838196607/3447769962/241.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_contacts_list.js" timestamp="1442166325651" lastAccessTime="1442416786520">
+    <attributes name="indexed" location="2838196607/3447769962/235.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_companies.js" timestamp="1441973052257" lastAccessTime="1442416786485">
+    <attributes name="indexed" location="2838196607/3447769962/217.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/products_calculations.js" timestamp="1442242363872" lastAccessTime="1442416786523">
+    <attributes name="indexed" location="2838196607/2543834903/237.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_nav_CRUD.js" timestamp="1442305050001" lastAccessTime="1442416786508">
+    <attributes name="indexed" location="2838196607/3447769962/229.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_products_existingOrders.js" timestamp="1441981294806" lastAccessTime="1442416786542">
+    <attributes name="indexed" location="2838196607/3447769962/251.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_order_month.js" timestamp="1442166335032" lastAccessTime="1442416786524">
+    <attributes name="indexed" location="2838196607/3447769962/239.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_contacts.js" timestamp="1441977590083" lastAccessTime="1442416786534">
+    <attributes name="indexed" location="2838196607/3447769962/247.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_nav_main.js" timestamp="1442304877443" lastAccessTime="1442416786417">
+    <attributes name="indexed" location="2838196607/3447769962/191.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/svyCore/forms/core_dlg_generic.js" timestamp="1441183336951" lastAccessTime="1442416785894"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/svyCore/forms" timestamp="1442414144597" lastAccessTime="1442416785895">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2940948611/169.idx"/>
+  </entries>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/svyCore/globals.js" timestamp="1441183337088" lastAccessTime="1442416785924"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_base.frm" timestamp="1441975640519" lastAccessTime="1442416786026"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_fimd.frm" timestamp="1441975640513" lastAccessTime="1442416786027"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_input.frm" timestamp="1441975640505" lastAccessTime="1442416786027"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_message.frm" timestamp="1441975640518" lastAccessTime="1442416786028"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_select.frm" timestamp="1441975640529" lastAccessTime="1442416786028"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/forms/dialogs_stylesheet.frm" timestamp="1441975640515" lastAccessTime="1442416786030"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/.buildpath" timestamp="1441975642151" lastAccessTime="1442416786053"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/.project" timestamp="1441975640548" lastAccessTime="1442416786053"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/medias" timestamp="1442414144318" lastAccessTime="1442416786053"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/medias.obj" timestamp="1441975640539" lastAccessTime="1442416786053"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/rootmetadata.obj" timestamp="1441975640538" lastAccessTime="1442416786054"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/solution_settings.obj" timestamp="1441975640532" lastAccessTime="1442416786055"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/mod_dialog/valuelists" timestamp="1442414144318" lastAccessTime="1442416786055"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/addresses.tbl" timestamp="1441362953904" lastAccessTime="1442416786210"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/companies.tbl" timestamp="1441787048185" lastAccessTime="1442416786210"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/contacts.tbl" timestamp="1441271134116" lastAccessTime="1442416786211"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/orders.tbl" timestamp="1441271655491" lastAccessTime="1442416786211"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/order_items.tbl" timestamp="1441376312153" lastAccessTime="1442416786212"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/products.tbl" timestamp="1441270608326" lastAccessTime="1442416786213"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/solution_navigation.tbl" timestamp="1441724852105" lastAccessTime="1442416786213"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/solution_preferences.tbl" timestamp="1441786755730" lastAccessTime="1442416786214"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/dlg_addresses.frm" timestamp="1442226564859" lastAccessTime="1442416786224"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/dlg_orderItem.frm" timestamp="1442238032318" lastAccessTime="1442416786225"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_admin.frm" timestamp="1441720926336" lastAccessTime="1442416786225"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_admin_vl.frm" timestamp="1442304265452" lastAccessTime="1442416786226"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_base_cust_prod_ord_con_adm.frm" timestamp="1441973102391" lastAccessTime="1442416786226"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_companies.frm" timestamp="1442243769391" lastAccessTime="1442416786226"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_contacts.frm" timestamp="1442244183886" lastAccessTime="1442416786228"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_nav_CRUD.frm" timestamp="1442243650084" lastAccessTime="1442416786229"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_nav_top.frm" timestamp="1442242231802" lastAccessTime="1442416786230"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_orders.frm" timestamp="1442244347974" lastAccessTime="1442416786231"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_products.frm" timestamp="1442302673570" lastAccessTime="1442416786231"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_admin.frm" timestamp="1441634245970" lastAccessTime="1442416786232"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_admin_preferences.frm" timestamp="1441720953534" lastAccessTime="1442416786232"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_companies.frm" timestamp="1441788136308" lastAccessTime="1442416786233"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_addresses.frm" timestamp="1442243889982" lastAccessTime="1442416786233"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_contacts.frm" timestamp="1442330750621" lastAccessTime="1442416786233"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_orders.frm" timestamp="1442244010901" lastAccessTime="1442416786234"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_contacts.frm" timestamp="1441789901170" lastAccessTime="1442416786234"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_contacts_company_addresses.frm" timestamp="1442303852398" lastAccessTime="1442416786235"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_nav_main.frm" timestamp="1442305086163" lastAccessTime="1442416786235"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_orders.frm" timestamp="1441789048880" lastAccessTime="1442416786236"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_order_items.frm" timestamp="1442244347904" lastAccessTime="1442416786236"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_products.frm" timestamp="1441790412907" lastAccessTime="1442416786237"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_products_existingOrders.frm" timestamp="1442302673517" lastAccessTime="1442416786237"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_solution_navigation.frm" timestamp="1441787365173" lastAccessTime="1442416786237"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_top5sales.frm" timestamp="1441703740390" lastAccessTime="1442416786238"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_valuelists.frm" timestamp="1441720983392" lastAccessTime="1442416786238"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/main.frm" timestamp="1441708112473" lastAccessTime="1442416786239"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_company_detail.frm" timestamp="1441183336850" lastAccessTime="1442416786239"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_company_list.frm" timestamp="1442166271898" lastAccessTime="1442416786240"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_contacts_list.frm" timestamp="1441183336553" lastAccessTime="1442416786240"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_order_form.frm" timestamp="1441183336240" lastAccessTime="1442416786241"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_order_month.frm" timestamp="1441183336443" lastAccessTime="1442416786242"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_products_list.frm" timestamp="1441183336584" lastAccessTime="1442416786242"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/.buildpath" timestamp="1441975705302" lastAccessTime="1442416786259"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/.metadata" timestamp="1442414144349" lastAccessTime="1442416786260"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/.project" timestamp="1441197691739" lastAccessTime="1442416786265"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/datasources" timestamp="1442414144365" lastAccessTime="1442416786266"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/medias" timestamp="1442414144452" lastAccessTime="1442416786266"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/medias.obj" timestamp="1442243362955" lastAccessTime="1442416786267"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/relations" timestamp="1442414144566" lastAccessTime="1442416786267"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/rootmetadata.obj" timestamp="1441197691804" lastAccessTime="1442416786267"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/solution_settings.obj" timestamp="1441975705274" lastAccessTime="1442416786268"/>
+  <entries path="C:/Users/Anastasija/sampleNG/workspace/servoy_sample_ng_basic/valuelists" timestamp="1442414144581" lastAccessTime="1442416786269"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_message.js" timestamp="1442502912000" lastAccessTime="1442570124075">
+    <attributes name="indexed" location="2838196607/825006356/283.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms" timestamp="1442502912000" lastAccessTime="1442570123368">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/220335187/261.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_select.js" timestamp="1442502912000" lastAccessTime="1442570124075">
+    <attributes name="indexed" location="2838196607/825006356/281.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_fimd.js" timestamp="1442502912000" lastAccessTime="1442570124074">
+    <attributes name="indexed" location="2838196607/825006356/279.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/globals.js" timestamp="1442502912000" lastAccessTime="1442570124075">
+    <attributes name="indexed" location="2838196607/220335187/285.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_input.js" timestamp="1442502912000" lastAccessTime="1442570124074">
+    <attributes name="indexed" location="2838196607/825006356/275.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_base.js" timestamp="1442502912000" lastAccessTime="1442570124074">
+    <attributes name="indexed" location="2838196607/825006356/277.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_products.js" timestamp="1442502912000" lastAccessTime="1442570123502"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms" timestamp="1442502912000" lastAccessTime="1442570123916">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2717647140/265.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/solution_preferences_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123506"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm" timestamp="1442502912000" lastAccessTime="1442570123879">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/309413277/267.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_base_cust_prod_ord_con_adm.js" timestamp="1442502912000" lastAccessTime="1442570123507"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_nav_top.js" timestamp="1442502912000" lastAccessTime="1442570123514"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/solution_navigation_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123529"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/contacts_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123536"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_contacts.js" timestamp="1442502912000" lastAccessTime="1442570123547"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/orders_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123566"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/dlg_orderItem.js" timestamp="1442502912000" lastAccessTime="1442570123571"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/globals.js" timestamp="1442502912000" lastAccessTime="1442570123585"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/companies_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123602"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/order_items_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123607"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_solution_navigation.js" timestamp="1442502912000" lastAccessTime="1442570123637"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/dlg_addresses.js" timestamp="1442502912000" lastAccessTime="1442570123640"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/main.js" timestamp="1442502912000" lastAccessTime="1442570123646"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/addresses_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123652"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_orders.js" timestamp="1442502912000" lastAccessTime="1442570123664"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_company_detail.js" timestamp="1442502912000" lastAccessTime="1442570123675"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_order_form.js" timestamp="1442502912000" lastAccessTime="1442570123688"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_contacts_company_addresses.js" timestamp="1442502912000" lastAccessTime="1442570123690"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_orders.js" timestamp="1442502912000" lastAccessTime="1442570123693"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_companies.js" timestamp="1442502912000" lastAccessTime="1442570123732"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_products.js" timestamp="1442502912000" lastAccessTime="1442570123787"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_addresses.js" timestamp="1442502912000" lastAccessTime="1442570123827"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_order_items.js" timestamp="1442502912000" lastAccessTime="1442570123839"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/constants.js" timestamp="1442502912000" lastAccessTime="1442570123847"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_company_list.js" timestamp="1442502912000" lastAccessTime="1442570123852"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_contacts.js" timestamp="1442502912000" lastAccessTime="1442570123858"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_company_orders.js" timestamp="1442502912000" lastAccessTime="1442570123865"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_products_list.js" timestamp="1442502912000" lastAccessTime="1442570123871"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_contacts_list.js" timestamp="1442502912000" lastAccessTime="1442570123872"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_companies.js" timestamp="1442502912000" lastAccessTime="1442570123873"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/datasources/udm/products_calculations.js" timestamp="1442502912000" lastAccessTime="1442570123879"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/frm_nav_CRUD.js" timestamp="1442502912000" lastAccessTime="1442570123887"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_products_existingOrders.js" timestamp="1442502912000" lastAccessTime="1442570123900"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/rpt_order_month.js" timestamp="1442502912000" lastAccessTime="1442570123907"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_contacts.js" timestamp="1442502912000" lastAccessTime="1442570123909"/>
+  <entries path="/home/osboxes/sampleNG/workspace/servoy_sample_ng_basic/forms/lst_nav_main.js" timestamp="1442502912000" lastAccessTime="1442570123916"/>
+  <entries path="/home/osboxes/sampleNG/workspace/svyCore/forms/core_dlg_generic.js" timestamp="1442502912000" lastAccessTime="1442570123994"/>
+  <entries path="/home/osboxes/sampleNG/workspace/svyCore/forms" timestamp="1442502912000" lastAccessTime="1442570123994">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/2519987154/271.idx"/>
+  </entries>
+  <entries path="/home/osboxes/sampleNG/workspace/svyCore/globals.js" timestamp="1442502912000" lastAccessTime="1442570124000"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_base.frm" timestamp="1442502912000" lastAccessTime="1442569170833"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_stylesheet.frm" timestamp="1442502912000" lastAccessTime="1442569170833"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_fimd.frm" timestamp="1442502912000" lastAccessTime="1442569170833"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_input.frm" timestamp="1442502912000" lastAccessTime="1442569170833"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_message.frm" timestamp="1442502912000" lastAccessTime="1442569170833"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/forms/dialogs_select.frm" timestamp="1442502912000" lastAccessTime="1442569170833"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/.project" timestamp="1442502912000" lastAccessTime="1442569170835"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/rootmetadata.obj" timestamp="1442502912000" lastAccessTime="1442569170835"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/.buildpath" timestamp="1442502912000" lastAccessTime="1442569170835"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/valuelists" timestamp="1442502912000" lastAccessTime="1442569170835"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/medias.obj" timestamp="1442502912000" lastAccessTime="1442569170835"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/solution_settings.obj" timestamp="1442502912000" lastAccessTime="1442569170835"/>
+  <entries path="/home/osboxes/sampleNG/workspace/mod_dialog/medias" timestamp="1442502912000" lastAccessTime="1442569170838"/>
+</cache:CacheIndex>
